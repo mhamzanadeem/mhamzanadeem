@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is M Hamza Nadeem
 ======================================================================================================================================
 
-Web Developer . React
+Web Developer | React
 ---------------------
 
 I am a dedicated student currently enrolled at FAST-NU, where I am passionately pursuing a degree in computer science. With a keen interest in web development and a specialization in React, I have spent the last two semesters honing my skills and delving into the dynamic world of front-end technologies. My journey at FAST-NU has been a rewarding one so far, as I continue to immerse myself in projects that challenge and inspire me, allowing me to grow both as a student and a web developer.
