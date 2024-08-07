@@ -4,7 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer | React | MUI | Next.JS
 ---------------------
 
-I am a dedicated student currently enrolled at FAST-NU, where I am passionately pursuing a degree in computer science. With a keen interest in web development and a specialization in React, I have spent the last two semesters honing my skills and delving into the dynamic world of front-end technologies. My journey at FAST-NU has been a rewarding one so far, as I continue to immerse myself in projects that challenge and inspire me, allowing me to grow both as a student and a web developer.
+My technical expertise spans across JavaScript, ReactJs, Node.Js and beyond. I am well-versed in agile development methodologies and thrive in collaborative team environments. I’m particularly proud of my work in creating robust authentication pages and building an engaging sports game, demonstrating my ability to deliver high-quality, user-centric applications.
+
+During my internship, I developed secure authentication pages using React, React Hooks, Yup schema, and the Berry template, ensuring seamless user access to various platform sections. I also utilized React and Konva.js to create an interactive sports game that provided a seamless and engaging experience for users. Throughout these projects, I consistently demonstrated effective teamwork and a commitment to delivering exceptional results.
+
+I stay up-to-date with the latest industry trends and technologies, which enables me to adapt quickly to evolving software landscapes. I am dedicated to delivering robust and scalable solutions that drive business success.
+
+I am always eager to tackle new challenges and learn from every project I undertake. If you're looking for a software engineer who brings technical expertise, a strong work ethic, and a passion for delivering exceptional results, I’d love to connect and explore potential collaborations.
 
 * 🌍  I'm based in Islamabad
 * 🖥️  See my portfolio at [Website](http://mhamzanadeem.github.io/)
