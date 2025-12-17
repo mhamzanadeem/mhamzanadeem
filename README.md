@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is M Hamza Nadeem
 ======================================================================================================================================
 
-Frontend Developer | React | MUI | Next.JS
+Software Engineer
 ---------------------
 
 My technical expertise spans across JavaScript, ReactJs, Node.Js and beyond. I am well-versed in agile development methodologies and thrive in collaborative team environments. I’m particularly proud of my work in creating robust authentication pages and building an engaging sports game, demonstrating my ability to deliver high-quality, user-centric applications.
