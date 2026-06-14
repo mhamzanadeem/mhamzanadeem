@@ -1,6 +1,6 @@
 # Hi, I'm M Hamza Nadeem 👋
 
-AI-First Full Stack Engineer specializing in building production-grade AI applications, RAG systems, and scalable full-stack web platforms.
+AI Full Stack Engineer specializing in building production-grade AI applications, RAG systems, and scalable full-stack web platforms.
 
 I focus on designing and deploying intelligent systems using modern LLM frameworks, backend architectures, and cloud infrastructure.
 
