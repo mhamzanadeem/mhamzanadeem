@@ -78,6 +78,4 @@ I focus on designing and deploying intelligent systems using modern LLM framewor
 
 ## 🔗 Connect With Me
 
-* GitHub: mhamzanadeem
-* LinkedIn: [your-link]
-* Portfolio: [your-site]
+* LinkedIn: https://www.linkedin.com/in/hamza-nadeem2000/
